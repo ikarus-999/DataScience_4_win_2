@@ -3,3 +3,6 @@
 - 월간 데이콘 3 | 게임 | 스타크래프트2 게임 빅데이터와 AI를 활용 승패 예측 | AUC
 - 상위 5% 랭크 입니다.
 https://dacon.io/competitions/official/235583/overview/
+
+다른 프로젝트들:
+https://docs.google.com/presentation/d/1WPxY0yT0Amak69t39iOdkinLwCFdZ_54O3rXFV8dVdc/edit?usp=sharing
